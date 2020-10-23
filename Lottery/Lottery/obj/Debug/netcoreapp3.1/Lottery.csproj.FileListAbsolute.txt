@@ -1,0 +1,13 @@
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\AufgabenKonsole\MyLotteryApp\Lottery\Lottery\bin\Debug\netcoreapp3.1\Lottery.exe
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\AufgabenKonsole\MyLotteryApp\Lottery\Lottery\bin\Debug\netcoreapp3.1\Lottery.deps.json
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\AufgabenKonsole\MyLotteryApp\Lottery\Lottery\bin\Debug\netcoreapp3.1\Lottery.runtimeconfig.json
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\AufgabenKonsole\MyLotteryApp\Lottery\Lottery\bin\Debug\netcoreapp3.1\Lottery.runtimeconfig.dev.json
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\AufgabenKonsole\MyLotteryApp\Lottery\Lottery\bin\Debug\netcoreapp3.1\Lottery.dll
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\AufgabenKonsole\MyLotteryApp\Lottery\Lottery\bin\Debug\netcoreapp3.1\Lottery.pdb
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\AufgabenKonsole\MyLotteryApp\Lottery\Lottery\obj\Debug\netcoreapp3.1\Lottery.csprojAssemblyReference.cache
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\AufgabenKonsole\MyLotteryApp\Lottery\Lottery\obj\Debug\netcoreapp3.1\Lottery.AssemblyInfoInputs.cache
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\AufgabenKonsole\MyLotteryApp\Lottery\Lottery\obj\Debug\netcoreapp3.1\Lottery.AssemblyInfo.cs
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\AufgabenKonsole\MyLotteryApp\Lottery\Lottery\obj\Debug\netcoreapp3.1\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\AufgabenKonsole\MyLotteryApp\Lottery\Lottery\obj\Debug\netcoreapp3.1\Lottery.dll
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\AufgabenKonsole\MyLotteryApp\Lottery\Lottery\obj\Debug\netcoreapp3.1\Lottery.pdb
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\AufgabenKonsole\MyLotteryApp\Lottery\Lottery\obj\Debug\netcoreapp3.1\Lottery.genruntimeconfig.cache
