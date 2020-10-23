@@ -21,8 +21,6 @@ namespace Lottery
 
             int number = 0;
 
-            
-            
             while (userInput.Length != 6 ||
             !int.TryParse(userInput, out number) ||
             number < 100000)
@@ -32,7 +30,6 @@ namespace Lottery
 
                 Console.Write("\tGib eine 6 stellige Zahl ein: \n\n\tDeine Zahl: \t\t");
                 userInput = Console.ReadLine();
-            
             }
 
             int[] lotteryBet = userInput.Select(x => (int)char.GetNumericValue(x)).ToArray();
@@ -59,9 +56,8 @@ namespace Lottery
                     Console.Write("-");
                 }
             }
-            Console.WriteLine("\n\t***   Du hast " + counter + " Treffer!   ***\n\n");
-            Console.WriteLine("**********************************************\n\n");
-            Console.WriteLine("Erneut spielen? Y / N");
+            Console.WriteLine("\n\n***********   Du hast " + counter + " Treffer!   ***********\n");
+  // TODO          Console.WriteLine("\tErneut spielen? Y / N");
         }
     }
 }
